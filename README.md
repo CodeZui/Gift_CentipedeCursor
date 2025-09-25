@@ -1,1 +1,1 @@
-# Gift_CentipedeCursor
+# Centipede Cursor 🐛
